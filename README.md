@@ -8,6 +8,6 @@ I have created this small example based on a personal project where I had to man
 
 ## Demo
 
-[Click to see the demo]()
+[Click to see the demo](https://kevinsillo.github.io/vue-reactive-url/)
 
 ![Mock](./mock.png)
