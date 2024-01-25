@@ -18,9 +18,9 @@ watchEffect(() => {
 </script>
 
 <template>
-    <h1>Reactive URL query 🔗👆🏼</h1>
+    <h1 class="text-xl sm:text-2xl md:text-3xl">Reactive URL query 👆🏼🔗</h1>
     <span>Write something and watch the magic✨</span>
-    <div class="min-w-[450px] w-fit flex flex-col gap-3 mt-5">
+    <div class="w-full md:min-w-[450px] md:w-fit flex flex-col gap-3 mt-5">
         <pre class="w-full flex">
             <code>{{ mainStore.query }}</code>
         </pre>

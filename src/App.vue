@@ -24,7 +24,7 @@ watch(
 </script>
 
 <template>
-    <main class="px-14 py-10">
+    <main class="px-8 py-6 md:px-14 md:py-10">
         <router-view />
     </main>
 </template>
